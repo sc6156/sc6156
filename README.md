@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**This is a test using markdown.**
-
 <!--
 **sc6156/sc6156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
