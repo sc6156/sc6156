@@ -14,7 +14,9 @@
 
 <br>
 
+<!---
 new projects will be added 
-reach out
+contact details and reach out
 
 certifications 
+--->
