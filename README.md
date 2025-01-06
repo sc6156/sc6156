@@ -2,7 +2,7 @@
 
 <!--- Introduction --->
 <div>
-  <img align="left" src="https://github.com/sc6156/sc6156/blob/main/profile.jpg" alt="profile_pic" width="200"/>
+  <img align="left" src="https://github.com/sc6156/sc6156/blob/main/profile.jpg" alt="profile_pic" width="230"/>
   <div align="right">
     <p align="left">I'm Scott, a security professional eager to transition to a career in data science and AI having recently completed a MSc in Computer Science with Data Analytics. I would love 
       to develop model and tools which benefit the public sector, having worked in this area for several years. I explored this topic in my research project for my MSc by fine-tuning 
