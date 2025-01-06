@@ -1,6 +1,6 @@
 ## Hello there, I'm Scott 👋
 
-![Alt text](https://github.com/sc6156/sc6156/blob/main/profile.jpg)
+<img src="[drawing.jpg](https://github.com/sc6156/sc6156/blob/main/profile.jpg)" alt="profile_pic" width="200"/>
 
 <!--
 **sc6156/sc6156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
