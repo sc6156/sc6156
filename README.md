@@ -21,6 +21,7 @@
 
 ---
 ### Certifications & Credentials
+<div> 
   <a href="https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url">
     <img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" alt="MS Excel Expert Certification Badge" width="150"/>
   </a>
@@ -32,5 +33,5 @@
   Certification Badge" width="150"/>
   <img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training 
   Certification Badge" width="150"/>
-  <br>
-  <p>Click an an image to digitally verify the certification or credential.</p>
+</div>
+<p>Click an an image to digitally verify the certification or credential.</p>
