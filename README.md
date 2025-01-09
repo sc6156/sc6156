@@ -22,12 +22,12 @@
 ---
 ### Certifications & Credentials
 <div>
-  <img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" alt="MS Excel Expert Certification Badge" width="100"/>
-  <img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" alt="CompTIA Security Plus Certification 
-  Badge" width="100"/>
-  <img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" alt="ILM Leadership and Management Level 5 
-  Diploma Certification Badge" width="100"/>
-  <img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training 
-  Certification Badge" width="100"/>
+  <img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" alt="MS Excel Expert Certification Badge" width="150"/>
+  <img src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" alt="CompTIA Security Plus Certification Badge"
+  width="150"/>
+  <img src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" alt="ILM Leadership and Management Level 5 Diploma 
+  Certification Badge" width="150"/>
+  <img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training 
+  Certification Badge" width="150"/>
 </div>
 
