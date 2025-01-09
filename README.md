@@ -33,6 +33,7 @@
   Certification Badge" width="150"/>
   <img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training 
   Certification Badge" width="150"/>
-  <p><small>Click an an image to digitally verify the certification or credential.</small></p>
+  <p>Click an an image to digitally verify the certification or credential.</p>
 </div>
 
+[link]([url](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)){:target="_blank"}
