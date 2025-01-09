@@ -51,5 +51,5 @@
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" width="150" alt="Level 3 Award in Education and Training 
   Certification Badge">]()
 <br><br>
-*Click on an image to digitally verify the certification or credential.*
+*Click on an image to digitally verify the certification or credential. Please note, the Security+ certification has expired.*
 
