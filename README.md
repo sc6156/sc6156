@@ -33,6 +33,6 @@
   Certification Badge" width="150"/>
   <img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training 
   Certification Badge" width="150"/>
-  <p style="font-size: 10em;">Click an an image to digitally verify the certification or credential.</p>
+  <p style="font-size: 10;">Click an an image to digitally verify the certification or credential.</p>
 </div>
 
