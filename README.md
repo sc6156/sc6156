@@ -21,7 +21,7 @@
 
 ---
 ### Certifications & Credentials
-<table>
+<table style="border:none;">
   <tr>
     <td><img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" alt="MS Excel Expert Certification Badge"/></td>
     <td><img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" alt="CompTIA Security Plus Certification Badge"/></td>
