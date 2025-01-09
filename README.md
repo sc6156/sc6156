@@ -2,7 +2,7 @@
 
 <!--- Introduction --->
 <div>
-  <img align="right" src="https://github.com/sc6156/sc6156/blob/main/profile.jpg" alt="profile_pic" width="170"/>
+  <img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/profile.jpg" alt="Scott Profile Picture" width="170"/>
   <div align="left">
     <p align="left">I'm Scott, a security professional eager to transition to a career in data science and AI having recently completed a MSc in Computer Science with Data Analytics. I 
       would love to develop models and tools which benefit the public sector, having worked in this area for several years. I explored this topic in my research project for my MSc by 
@@ -17,7 +17,17 @@
 
 ---
 ### Languages & Tools
-
+Under construction
 
 ---
 ### Certifications & Credentials
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" width="150" alt="MS Excel Expert 
+  Certification Badge">](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" width="150" alt="CompTIA Security Plus Certification Badge">](https://www.credly.com/badges/487530dd-053e-4325-b113-41eab873da25/public_url)
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" width="150" alt="ILM Leadership and Management Level 5 Diploma 
+  Certification Badge">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" width="150" alt="Level 3 Award in Education and Training 
+  Certification Badge">]()
+<br>
+*Click on an image to digitally verify the certification or credential.*
+
