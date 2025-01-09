@@ -13,8 +13,6 @@
   </div>
 </div>
 
-<p>I will be adding further repos as I work on personal projects to develop my knowedge of all things AI, so watch this space! In the meantime, please feel free to contact me if you have any questions about my work.</p>
-
-<br>
+<p>I will be adding further repos as I work on personal projects to develop my knowedge of all things AI, so watch this space! If you would like to discuss any of my work, feel free to reach out and contact me.</p>
 
 ---
