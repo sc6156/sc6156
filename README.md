@@ -12,17 +12,10 @@
   </div>
 </div>
 
+<p>The sections below contain a list of the languages and tools that I have used to date. You will also find some of the certifications and credentials that I hold. Moreover, I will be adding further repos as I work on personal projects to develop my knowedge of all things AI, so watch this space!</p>
+
+<p>If you would like to discuss </p>
+
 <br>
 
-<p>I plan on adding further repos as I develop my knowledge 
-  
-  Watch this space
-</p>
 ---
-
-<!---
-new projects will be added 
-contact details and reach out
-
-certifications 
---->
