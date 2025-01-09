@@ -28,16 +28,5 @@
   Certification Badge">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" width="150" alt="Level 3 Award in Education and Training 
   Certification Badge">]()
-
-
-
-  <a href="https://www.credly.com/badges/487530dd-053e-4325-b113-41eab873da25/public_url" style="display: inline-block;">
-    <img src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" alt="CompTIA Security Plus Certification Badge"
-  width="150"/>
-  </a>
-  <img src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" alt="ILM Leadership and Management Level 5 Diploma 
-  Certification Badge" width="150"/>
-  <img src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training 
-  Certification Badge" width="150"/>
-
+* Click on an image to digitally verify the certification or credential.
 
