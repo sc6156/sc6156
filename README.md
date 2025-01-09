@@ -35,5 +35,3 @@
   Certification Badge" width="150"/>
   <p>Click an an image to digitally verify the certification or credential.</p>
 </div>
-
-[link]([url](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)){:target="_blank"}
