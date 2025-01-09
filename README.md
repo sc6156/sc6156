@@ -21,11 +21,10 @@
 
 ---
 ### Certifications & Credentials
-<table border="0">
-  <tr>
-    <td><img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" alt="MS Excel Expert Certification Badge"/></td>
-    <td><img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" alt="CompTIA Security Plus Certification Badge"/></td>
-    <td><img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" alt="ILM Leadership and Management Level 5 Diploma Certification Badge"/></td>
-    <td><img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training Certification Badge"/></td>
-  </tr>
-</table>
+<div>
+  <img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" alt="MS Excel Expert Certification Badge"/>
+<img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" alt="CompTIA Security Plus Certification Badge"/>
+<img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" alt="ILM Leadership and Management Level 5 Diploma Certification Badge"/>
+<img align="right" src="https://github.com/sc6156/sc6156/blob/main/Images/AET_368x368.png" alt="Level 3 Award in Education and Training Certification Badge"/>
+</div>
+
