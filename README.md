@@ -37,6 +37,8 @@
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/power automate_128.png" width="80" alt="">](https://www.microsoft.com/en-gb/power-platform/products/power-automate)
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/powerBI_128.png" width="80" alt="">](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/sharepoint_128.png" width="80" alt="">](https://www.microsoft.com/en-gb/microsoft-365/sharepoint/collaboration)
+<br>
+*Click on an image to learn more about the language or tool.*
 
 ---
 
