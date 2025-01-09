@@ -22,7 +22,7 @@
 ---
 ### Certifications & Credentials
 <div>
-  <a href="https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url">
     <img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" alt="MS Excel Expert Certification Badge" width="150"/>
   </a>
   <a href="https://www.credly.com/badges/487530dd-053e-4325-b113-41eab873da25/public_url">
