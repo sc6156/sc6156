@@ -25,7 +25,7 @@
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/php_128.png" width="80" alt="">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/js_128.png" width="80" alt="">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/mysql_128.png" width="80" alt="">]()
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/oracle pl_sql_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/oracle pl_sql_128.jpg" width="80" alt="">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/MongoDB_128.png" width="80" alt="">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/spark_128.png" width="80" alt="">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/docker_128.png" width="80" alt="">]()
