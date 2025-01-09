@@ -43,12 +43,12 @@
 ---
 
 ### Certifications & Credentials
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" width="150" alt="MS Excel Expert 
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" width="130" alt="MS Excel Expert 
   Certification Badge">](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" width="150" alt="CompTIA Security Plus Certification Badge">](https://www.credly.com/badges/487530dd-053e-4325-b113-41eab873da25/public_url)
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" width="150" alt="ILM Leadership and Management Level 5 Diploma 
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" width="130" alt="CompTIA Security Plus Certification Badge">](https://www.credly.com/badges/487530dd-053e-4325-b113-41eab873da25/public_url)
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" width="130" alt="ILM Leadership and Management Level 5 Diploma 
   Certification Badge">]()
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/AET.jpg" width="150" alt="Level 3 Award in Education and Training 
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/AET.jpg" width="130" alt="Level 3 Award in Education and Training 
   Certification Badge">]()
 <br><br>
 *Click on an image to digitally verify the certification or credential. Please note, the Security+ certification has expired.*
