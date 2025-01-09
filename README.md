@@ -21,7 +21,7 @@
 
 ---
 ### Certifications & Credentials
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png">](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" width="150">](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)
 
 
 <div> 
