@@ -22,9 +22,24 @@
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/java_128.png" width="80" alt="">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/html5_128.png" width="80" alt="">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/css3_128.png" width="80" alt="">]()
-
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/php_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/js_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/mysql_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/oracle pl_sql_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/MongoDB_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/spark_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/docker_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/jupyter_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/pandas_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/hf_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/azure_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/excel_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/power automate_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/powerBI_128.png" width="80" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/sharepoint_128.png" width="80" alt="">]()
 
 ---
+
 ### Certifications & Credentials
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/MOS_Excel_Expert_368x368.png" width="150" alt="MS Excel Expert 
   Certification Badge">](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)
