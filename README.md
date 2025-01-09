@@ -17,11 +17,11 @@
 
 ---
 ### Languages & Tools
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/python_128.png" width="50%" alt="">]()
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/r_128.png" width="50%" alt="">]()
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/java_128.png" width="50%" alt="">]()
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/html5_128.png" width="50%" alt="">]()
-[<img src="https://github.com/sc6156/sc6156/blob/main/Images/css3_128.png" width="50%" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/python_128.png" width="50" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/r_128.png" width="50" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/java_128.png" width="50" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/html5_128.png" width="50" alt="">]()
+[<img src="https://github.com/sc6156/sc6156/blob/main/Images/css3_128.png" width="50" alt="">]()
 
 
 ---
