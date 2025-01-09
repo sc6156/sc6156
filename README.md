@@ -8,11 +8,12 @@
       would love to develop model and tools which benefit the public sector, having worked in this area for several years. I explored this topic in my research project for my MSc by 
       fine-tuning transformer-based text summarisation models on a child protection dataset that I created from publicly available sources. If you would like to read my research, just 
       visit my <a href="https://github.com/sc6156/academic-work/tree/main"> academic-work repo</a>. This repo also contains other work I did during my MSc, as well as the 
-      dissertation and two essays I wrote for a MA in Transnational Organised Crime that I obtained in 2017.</p> 
+      dissertation and two essays I wrote for a MA in Transnational Organised Crime that I obtained in 2017. I will be adding further repos as I work on personal projects to develop my knowedge of 
+      all things AI, so watch this space!</p> 
   </div>
 </div>
 
-<p>The sections below contain a list of the languages and tools that I have used to date. You will also find some of the certifications and credentials that I hold. Moreover, I will be adding further repos as I work on personal projects to develop my knowedge of all things AI, so watch this space!</p>
+<p>The sections below contain a list of the languages and tools that I have used to date. You will also find some of the certifications and credentials that I hold.</p>
 
 <p>If you would like to discuss </p>
 
