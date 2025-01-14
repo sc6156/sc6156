@@ -47,7 +47,7 @@
   Certification Badge">](https://www.credly.com/badges/2dee7153-2c84-4fff-afc8-5d9a3c898577/public_url)
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/CompTIA_Security_368x368.png" width="130" alt="CompTIA Security Plus Certification Badge">](https://www.credly.com/badges/487530dd-053e-4325-b113-41eab873da25/public_url)
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" width="130" alt="ILM Leadership and Management Level 5 Diploma 
-  Certification Badge">]()
+  Certification Badge">](https://www.credential.net/943c7856-13e1-4c75-b320-99b9fef3c6e4?username=scottcumming584717)
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/AET.jpg" width="130" alt="Level 3 Award in Education and Training 
   Certification Badge">](https://digitalcredentials.cityandguilds.com/7d693e19-ba92-4037-900c-1ac8d4387901#acc.HklAaoW6)
 <br><br>
