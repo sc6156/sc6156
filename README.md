@@ -49,7 +49,7 @@
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/ilm_dip_l&m_368x368.png" width="130" alt="ILM Leadership and Management Level 5 Diploma 
   Certification Badge">]()
 [<img src="https://github.com/sc6156/sc6156/blob/main/Images/AET.jpg" width="130" alt="Level 3 Award in Education and Training 
-  Certification Badge">]()
+  Certification Badge">](https://digitalcredentials.cityandguilds.com/7d693e19-ba92-4037-900c-1ac8d4387901#acc.HklAaoW6)
 <br><br>
 *Click on an image to digitally verify the certification or credential. Please note, the Security+ certification has expired.*
 
