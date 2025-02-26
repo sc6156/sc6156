@@ -9,7 +9,7 @@
       fine-tuning transformer-based text summarisation models on a child protection dataset that I created from publicly available sources. If you would like to read my research, just 
       visit my <a href="https://github.com/sc6156/academic-work/tree/main"> academic-work repo</a>. This repo also contains other work I did during my MSc, as well as the 
       dissertation and two essays I wrote for a MA in Transnational Organised Crime that I obtained in 2017. I appreciate there is a lot of content in this repo, so I have listed many of the 
-      languages and tools that I have used below, alongside some of the certifications and credentials that I hold.</p> 
+      languages and tools that I have used in my academically and in my profession below, alongside some of the certifications and credentials that I hold.</p> 
   </div>
 </div>
 
